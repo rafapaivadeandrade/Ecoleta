@@ -211,7 +211,7 @@ Then you can clone the repository.
 
   
 
-`git clone https://github.com/azagatti/ecoleta`
+`git clone https://github.com/rafapaivadeandrade/ecoleta`
 
   
 
